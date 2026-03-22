@@ -99,3 +99,8 @@ cup_mesh = mesh.Mesh(data.copy())               cup_mesh.save('output_model.stl'
 
 Executing generated script...
 Success! 'output_model.stl' has been created. 
+
+
+
+Erm the result is disaster sadly.
+![first time Ai generating 3d models](https://github.com/carlostmgps/Chimeraz/blob/231f4a3054b5b4d9cf5b1a10b1ad4081095d9d6b/Journel/23032026_01.jpg)
