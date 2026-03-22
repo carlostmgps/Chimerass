@@ -1,0 +1,22 @@
+Yeah today is the first day starting the LLM project that aimed to fully automate Ai to create a project including software and hardware.
+Target:
+-Create a fully functinable software or hardware project with barely no human input but only within 10 topic prompt for it.
+-Automatically generate codes and debug in real Linux environments.
+-Generate design files including KiCad schemetics and pcb files and 3D printing files and also wiring diagram.
+-Generate the developing Log automatically.
+-Write docs and logsautomatically.
+-Use Github themselves.
+
+The project is inspired by openclaw but the structure is designed by myself not coping anyone.
+
+I think i will use multiple llm agent at the end for different developing progress such as designer,programmer,leader and the main developer.
+
+I tried to make a system that doesn't rely on Ai History but only use the log files and the datas recorded in the temp folder I gave permission to the LLM.
+
+OMG IM SO SCARED I JUST TRIED I FEW TIMES AND IMPROVING THE MEMORY AND COMMAND ACCESS SYSTEM AND STRUCTURE.
+I JUST TOLD THE AI TO GENERATE A ENCYRPT AND DECYRPT FILE BUT IN THE MIDDLE IT SUDDENLY DELETED ALL THE FILES IT GENERATED AND STARTED TO INSTALL PYTHON LIBRARIES AND THEN TRIED TO UPLOAD TO GITHUB(I DIDN'T PUT THIS PART INTO THE CODE.) AND IT TRIED TO OPEN A PORT ON MY DEVICE🫪🫪🫪😮😮😮
+(log file: 22032026-01.log)
+And after a few fixings I got this perfect result.
+(log file: 22032026-02.log)
+It successfully generated a Quadratic Equation calculator with python and even can discover that I use python3 but not python in command line and automatically corrected it itself OMG that was amazing.
+Please note that I only inputed the first line and it just automatically generated all files I need in a correct file structure.
