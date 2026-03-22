@@ -5,3 +5,15 @@ A really cool LLM Application that can help you develop projects(including hardw
 
 Started in 03 22 2026
 Current still in development now
+
+Todo list
+-Simple Code Generation
+-Simple Model Generation
+-Simple PCB Generation
+-Simple Wired Diagram Generation
+-Leader Agent and coorperating
+-Project Docs Generation
+-Project Develop Progress Generation
+-Physics simulation for Model Generation
+-Research WebCrawler
+-Resource Obtain from Web.
